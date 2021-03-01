@@ -3,6 +3,7 @@
 	<groupId>org.example</groupId>
 	<artifactId>mvnsameple</artifactId>
 	<version>1</version>
+	 <build>
 	<plugins>
         <plugin>
             <!-- Build an executable JAR -->
@@ -19,4 +20,4 @@
         </plugin>
     </plugins>
     </build>
-<project>
+</project>
